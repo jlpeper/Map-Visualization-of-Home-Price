@@ -1,4 +1,4 @@
-# Map-Visualization-of-Home-Price
+# Map-Visualization-of-LA-Home-Price
 Tableau & Python: Pandas, Numpy, Geopandas, MatPlotLib
 
 In this short notebook, I use Zillow data from Quandl and geographic zip code data provided by the city of Los Angeles to create a map of home value percentile. 
